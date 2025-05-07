@@ -25,6 +25,7 @@ KEYWORDS = [
     "record financial performance",
     "confidence in long term growth",
     "record revenue quarter",
+    "expects to exceed market expectations",
 ]
 
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
